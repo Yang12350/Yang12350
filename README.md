@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter</h1>
+<h1 align="center">Hi 👋, I'm Peter，成為資料工程師的職涯路上</h1>
 <h3 align="center">專注在今天能做的，認真投入，就會穩定前進！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang12350&label=Profile%20views&color=0e75b6&style=flat" alt="yang12350" /> </p>

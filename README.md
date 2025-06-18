@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Peter，成為資料工程師的職涯路上</h1>
 <h3 align="center">專注在今天能做的，認真投入，就會穩定前進！</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yang12350&label=Profile%20views&color=0e75b6&style=flat" alt="yang12350" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yang12350&label=Profile%20views&color=0e75b6&style=flat" alt="yang12350" /> </p>
+<hr style="border: none; height: 5px; background-color: black;">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
 <br><br>
 
-<hr style="border: none; height: 5px; background-color: black;">
+
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗

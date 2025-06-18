@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter，成為資料工程師的職涯路上</h1>
+<h1 align="center">Hi 👋, 我是Yang，在成為資料與軟體工程的職涯路上</h1>
 <h3 align="center">專注在你今天能做的，認真投入，就會穩定前進！</h3>
 <h2 align="center">軟體工程師 | 資料工程師 | 資料科學探索者</h2>
 

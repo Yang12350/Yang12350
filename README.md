@@ -67,5 +67,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <hr style="border: none; height: 5px; background-color: black;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yang12350&" alt="yang12350" /></p>
 

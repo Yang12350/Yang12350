@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, 我是Yang，在成為資料與軟體工程的職涯路上</h1>
 <h3 align="center">專注在你今天能做的，認真投入，就會穩定前進！</h3>
-<h2 align="center">軟體工程師 | 資料工程師 | 資料科學探索者</h2>
+<h2 align="center">Software Engineer | Data Engineer | Data Science Explorer</h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yang12350&label=Profile%20views&color=0e75b6&style=flat" alt="yang12350" /> </p>
 <hr style="border: none; height: 5px; background-color: black;">

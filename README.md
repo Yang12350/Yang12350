@@ -2,8 +2,10 @@
 <h3 align="center">專注在你今天能做的，認真投入，就會穩定前進！</h3>
 <h2 align="center">Software Engineer | Data Engineer | Data Science Explorer</h2>
 
-
+<div style="text-align: center;">
 <img src="https://readme-typing-svg.demolab.com?font=Huninn&weight=100&size=25&duration=3000&pause=450&color=3469F7&background=34FF4E00&width=500&height=70&lines=%E8%B3%87%E6%96%99%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%8B%BF%E4%BE%86%E5%89%B5%E9%80%A0%E5%83%B9%E5%80%BC;%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%B0%B1%E6%98%AF%E6%8B%BF%E4%BE%86%E5%B0%87%E5%83%B9%E5%80%BC%E5%AF%A6%E7%8F%BE%E7%9A%84%E4%BA%BA" alt="Typing SVG">
+</div>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yang12350&label=Profile%20views&color=0e75b6&style=flat" alt="yang12350" /> </p>
 <hr style="border: none; height: 5px; background-color: black;">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
